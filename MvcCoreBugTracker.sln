@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30406.217
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcCoreBugTracker.App", "src\MvcCoreBugTracker.App\MvcCoreBugTracker.App.csproj", "{F94223E5-32D5-43DB-AAAF-F7E8CC2D901D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MvcCoreBugTracker.App", "src\MvcCoreBugTracker.App\MvcCoreBugTracker.App.csproj", "{F94223E5-32D5-43DB-AAAF-F7E8CC2D901D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcCoreBugTracker.Business", "src\MvcCoreBugTracker.Business\MvcCoreBugTracker.Business.csproj", "{3073E098-CC49-4E95-9192-3A28CD6E3711}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MvcCoreBugTracker.Business", "src\MvcCoreBugTracker.Business\MvcCoreBugTracker.Business.csproj", "{3073E098-CC49-4E95-9192-3A28CD6E3711}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcCoreBugTracker.Data", "src\MvcCoreBugTracke.Data\MvcCoreBugTracker.Data.csproj", "{D2CBC4FF-DA29-4AF9-8CC4-B5C2809BE5D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MvcCoreBugTracker.Data", "src\MvcCoreBugTracker.Data\MvcCoreBugTracker.Data.csproj", "{F5D39759-2A57-4DBF-ADC1-EF27356E8F40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{3073E098-CC49-4E95-9192-3A28CD6E3711}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3073E098-CC49-4E95-9192-3A28CD6E3711}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3073E098-CC49-4E95-9192-3A28CD6E3711}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D2CBC4FF-DA29-4AF9-8CC4-B5C2809BE5D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D2CBC4FF-DA29-4AF9-8CC4-B5C2809BE5D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D2CBC4FF-DA29-4AF9-8CC4-B5C2809BE5D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D2CBC4FF-DA29-4AF9-8CC4-B5C2809BE5D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5D39759-2A57-4DBF-ADC1-EF27356E8F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5D39759-2A57-4DBF-ADC1-EF27356E8F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5D39759-2A57-4DBF-ADC1-EF27356E8F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5D39759-2A57-4DBF-ADC1-EF27356E8F40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
